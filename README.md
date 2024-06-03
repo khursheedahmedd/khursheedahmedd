@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA, Next.js**
 
-- 👨‍💻 All of my projects are available at [http://khursheed-portfolio.vercel.app](http://khursheed-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [my portfolio](http://khursheeds-portfolio.vercel.app)
 
 - 💬 Ask me about **React JS, Next JS and DSA**
 
