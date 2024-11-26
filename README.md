@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio](http://khursheeds-portfolio.vercel.app)
 
-- 💬 Ask me about **React JS, Next JS and DSA**
+- 💬 Ask me about **Machine Learning, MERN stack, Next JS and DSA**
 
 - 📫 How to reach me **khursheed6577@gmail.com**
 
