@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA, Data Sciences**
 
-- 👨‍💻 All of my projects are available at [my portfolio](http://khursheeds-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [my portfolio](https://www.khursheedahmed.work/)
 
 - 💬 Ask me about **Machine Learning, MERN stack, Next JS and DSA**
 
