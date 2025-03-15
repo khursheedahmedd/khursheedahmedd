@@ -25,6 +25,7 @@
 ### GitHub Trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=khursheedahmedd)](https://github.com/khursheedahmedd/github-profile-trophy)
+[![Top Contribution](https://github-contributor-stats.vercel.app/api?username=khursheedahmed&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khursheedahmedd&show_icons=true&locale=en&layout=compact" alt="khursheedahmedd" /></p>
@@ -32,7 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khursheedahmedd&show_icons=true&locale=en" alt="khursheedahmedd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khursheedahmedd&" alt="khursheedahmedd" /></p>
-### 🔝 Top Contributed Repo
-<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=khursheedahmed&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="khursheedahmedd" /></p>
+
 
 
