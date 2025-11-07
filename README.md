@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- Microsoft Imagine Cup 2025 Semifinalist**
-- Ranked 30th globally in round 1 of Meta Hacker Cup 2025**
-- IBM WatsonX Generative AI Hackathon winner**
+- Microsoft Imagine Cup 2025 Semifinalist
+- Ranked 30th globally in round 1 of Meta Hacker Cup 2025
+- IBM WatsonX Generative AI Hackathon winner
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://www.khursheed.online/)
 
