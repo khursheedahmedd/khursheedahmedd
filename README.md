@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [my portfolio](https://www.khursheed.online/) 
 
 - 📫 How to reach me **khursheed6577@gmail.com**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/khursheed-ahmed-8073b0233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khursheed ahmed" height="30" width="40" /></a>
