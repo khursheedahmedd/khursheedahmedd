@@ -10,7 +10,7 @@
 - IBM WatsonX Generative AI Hackathon winner  
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://www.khursheed.online/)  
-  
+   
 - 📫 How to reach me **khursheed6577@gmail.com**   
     
 <h3 align="left">Connect with me:</h3> 
