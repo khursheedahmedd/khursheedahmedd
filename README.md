@@ -20,16 +20,5 @@
 <a href="https://www.leetcode.com/khursheed6577" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khursheed6577" height="30" width="40" /></a>
 </p>
 
-### GitHub Trophies:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=khursheedahmedd)](https://github.com/khursheedahmedd/github-profile-trophy)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khursheedahmedd&show_icons=true&locale=en&layout=compact" alt="khursheedahmedd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khursheedahmedd&show_icons=true&locale=en" alt="khursheedahmedd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khursheedahmedd&" alt="khursheedahmedd" /></p>
- 
 
 
