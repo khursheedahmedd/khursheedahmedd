@@ -19,5 +19,15 @@
 <a href="https://www.leetcode.com/khursheed6577" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khursheed6577" height="30" width="40" /></a> 
 </p>
 
+## GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khursheedahmedd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khursheedahmedd&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarfrazrizwan&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
  
