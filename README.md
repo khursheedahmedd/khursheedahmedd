@@ -8,7 +8,7 @@
 - Ranked 30th globally in round 1 of Meta Hacker Cup 2025 
 - IBM WatsonX Generative AI Hackathon winner  
  
-- 👨‍💻 All of my projects are available at [my portfolio](https://www.khursheed.online/)  
+- 👨‍💻 All of my projects are available at [my portfolio](https://www.khursheed.site/)  
      
 - 📫 How to reach me **khursheed6577@gmail.com**    
      
